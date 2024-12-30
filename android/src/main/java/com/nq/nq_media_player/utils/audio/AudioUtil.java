@@ -21,7 +21,7 @@ public class AudioUtil {
 
     private static volatile AudioUtil instance;
     private AudioManager audioManager;
-    private Handler handler;
+    private final Handler handler;
     private AudioManager.AudioPlaybackCallback callback;
     private long lastCallTime = 0;
     private boolean isInitialized = false;

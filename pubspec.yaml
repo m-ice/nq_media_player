@@ -1,6 +1,6 @@
 name: nq_media_player
 description: "A flutter plugin that uses key commands to play and pause the music player of the mobile phone system and switch between the top and bottom songs."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/m-ice/nq_media_player.git
 
 
